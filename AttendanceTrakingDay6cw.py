@@ -10,7 +10,7 @@ for student in attendance:
         full_days +=1
         print("Full")
     else:
-        print("Nnot full")
+        print("Not full")
         
 print("number of full days: ",full_days)
 print("total attendance for 5 days:",total_attendance)
